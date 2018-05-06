@@ -36,3 +36,7 @@ Add or update files in `/public`.
 ## License
 
 MIT
+
+### sample url
+
+* https://lskenapi.herokuapp.com/
